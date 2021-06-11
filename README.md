@@ -1,5 +1,7 @@
 # Speech-Text-Recognition(Using Multilingual language)
 
+![img](img/Capture.JPG)
+
 # Introduction
 
 Speech recognition, also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, is a capability which enables a program to process human speech into a written format. 
@@ -29,7 +31,7 @@ aarkeshsharma
 # License
 Copyright (c) 2021-present, Aarkesh Sharma aarkeshsharma@gmail.com
 
-* This was created as a part of mini project *
+* This was created as a part of mini project 
 
 
 
